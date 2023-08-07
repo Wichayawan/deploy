@@ -31,6 +31,6 @@
   "scripts": {
     "start": "ts-node-dev src/main.ts",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "npm i"
+    "build": "yarn install"
   }
 }
