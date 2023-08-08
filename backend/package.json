@@ -34,6 +34,6 @@
     "build": "yarn install"
   },
   "engines": {
-    "node": "18.17.0"
+    "node": "18.16.1"
   }
 }
